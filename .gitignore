@@ -1,0 +1,24 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log

@@ -18,6 +18,48 @@
 
 AI 编程是未来软件工程师的核心技能。不会 AI 的工程师将被会 AI 的工程师替代。但这**不是** "vibe coding"课程——不能盲目相信 AI 输出，Human-agent engineering 才是核心。
 
+> Prompts are the lingua franca for getting LLMs to do what we want and also effectively programming them
+>
+> — Andrej Karpathy
+
+### 坏消息 vs 好消息
+
+| 消息 | 内容 |
+|------|------|
+| **坏消息** | Windsurf 团队（AI 编程公司被收购） |
+| **好消息** | 开发者可以比以往更高效；AI 工程师可以以前所未有的速度掌握技术栈和工具 |
+
+---
+
+## 1.1 课程信息
+
+| 项目 | 内容 |
+|------|------|
+| 课程代码 | CS146S |
+| 学校 | 斯坦福大学，2025 年秋季 |
+| 讲师 | Mihail Eric |
+| 课程网站 | themodernsoftware.dev |
+
+### 课程安排
+- **上课时间**: 周一/周五 8:30-9:20 am PT
+- **交付内容**: 9 次作业（每周 1 次）+ 1 个期末项目
+- **评分方式**: 项目 80% / 作业 15% / 参与度 5%
+
+### 讲师简介
+Mihail Eric 是斯坦福大学本科/研究生，曾：
+- 在一家隐秘的销售领域创业公司领导 AI
+- 在 Amazon Alexa 构建首批 LLM
+- 创立并出售了一家 ML 教育创业公司
+- 创立了一家 YC 支持的 AI 编程公司
+
+### 课程助教
+- Febie Lin
+
+### 嘉宾讲座
+本课程包含来自顶级 AI 开发者创业公司创始人的嘉宾讲座：
+- 融资数亿美元，估值数十亿
+- 不要错过这些讲座！
+
 ### Human-agent Engineering 核心技能
 1. **阅读和审查大量代码** - 学会辨别好代码和坏代码
 2. **有好的品味** - 理解什么是优秀的软件
